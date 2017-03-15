@@ -1,0 +1,7 @@
+Font: Josefin Sans
+
+Logo Dark: #1831AD
+Logo Medium: #068EFE //wrong
+Logo Light: #1FF0E5
+Background grey: #CCCCCC
+
